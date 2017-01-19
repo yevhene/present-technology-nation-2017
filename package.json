@@ -1,0 +1,25 @@
+{
+  "name": "present-technology-nation-2017",
+  "version": "1.0.0",
+  "description": "Technology Nation 2017",
+  "homepage": "https://present-technology-nation-2017.herokuapp.com",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": {
+    "name": "Yevhen Shemet",
+    "email": "yevhene@gmail.com",
+    "web": "https://github.com/yevhene"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yevhene/present-technology-nation-2017.git"
+  },
+  "engines": {
+    "node": "~6.2.2"
+  },
+  "dependencies": {
+    "express": "~4.13.3"
+  },
+  "license": "MIT"
+}
