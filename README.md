@@ -1,4 +1,4 @@
-# Presentation Redux
+# Presentation Technology Nation 2017
 
 Prepare:
 ```
@@ -9,5 +9,3 @@ Start:
 ```
 npm start
 ```
-
-[Sources](/src)
